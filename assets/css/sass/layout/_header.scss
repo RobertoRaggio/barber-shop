@@ -1,0 +1,25 @@
+.titulo{
+    position: relative;
+    display: block;
+    text-align: center;
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Playfair Display', serif;
+}
+
+.imagen-principal {
+    width: 100%;
+}
+.texto-1{
+    color: white;
+    position: absolute;
+    vertical-align: middle;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    
+}
+
